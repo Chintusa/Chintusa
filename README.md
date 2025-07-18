@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 Currently working on **[Youth Connect](#)** – A platform for empowering young innovators and entrepreneurs.
+- 🔭 Currently working on **[Youth Connect](https://github.com/Chintusa/YouthConnect)** – A platform for empowering young innovators and entrepreneurs.
 - 🌱 Learning **React** and **Microservices** to master full-stack development.
 - 👯 Looking to collaborate on **server-based projects**.
 - 🤝 Seeking guidance on **DevOps**.
